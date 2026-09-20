@@ -15,3 +15,10 @@ This is a Python setup and management system for a home RPi cluster. The aim of 
 ```
 wget https://raw.githubusercontent.com/cms66/rpi-homehq/main/setup.py; sudo python ./setup.py
 ```
+- Reboot
+
+### Second boot
+Login provides Aliases for
+- spr = reboot
+- spo = poweroff
+- mps = Management menu
