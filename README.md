@@ -10,7 +10,8 @@ This is a Python setup and management system for a home RPi cluster. The aim of 
 - Create files in visible partition (see example files)
     - hosts.txt
     - custom.conf
-- Login as created user and run 
+### First boot
+- login as created user and run 
 ```
 wget https://raw.githubusercontent.com/cms66/rpi-homehq/main/setup.py; sudo python ./setup.py
 ```
